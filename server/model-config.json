@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "Notificacion": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Planporusuario": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Comida": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "PgStatStatements": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Ejercicio": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Ingrediente": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Ingredienteporreceta": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Receta": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Recetaporcomida": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Plannutricional": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Peso": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Verificacion": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Consumocalorico": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Profesional": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Grupoalimenticio": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Test": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Usuario": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Paso": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Preferencia": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Tag": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Tagporreceta": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Logro": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Restaurante": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Calificador": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  },
+  "Logroporusuario": {
+    "dataSource": "pgSaludNutDataSource",
+    "public": true
+  }
+}

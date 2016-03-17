@@ -1,0 +1,11 @@
+{
+  "pgSaludNutDataSource": {
+    "host": "babar.elephantsql.com",
+    "port": 5432,
+    "database": "gmiwdmcr",
+    "password": "rCFd9PoXwjjaV443dJoJD0MHHQdjSlgn",
+    "name": "pgSaludNutDataSource",
+    "user": "gmiwdmcr",
+    "connector": "postgresql"
+  }
+}
